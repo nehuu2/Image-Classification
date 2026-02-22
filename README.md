@@ -163,11 +163,11 @@ Prediction
 
 ---
 
-## 👩‍💻 Author
+👩‍💻 Author
+Neha
 
-**Neha**
 💡 Aspiring Machine Learning Engineer
-🚀 Interested in Deep Learning, Computer Vision, and AI Applications
+🚀 Passionate about Deep Learning, Computer Vision, and AI Applications
 
 ---
 
