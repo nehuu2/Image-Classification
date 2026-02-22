@@ -71,7 +71,7 @@ Image_classification/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Image_classification.git
+git clone https://github.com/nehuu2/Image_classification.git
 cd Image_classification
 ```
 
